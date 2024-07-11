@@ -1,2 +1,6 @@
 My new File
+<<<<<<< HEAD
 Updating the second file
+=======
+Updating the second file
+>>>>>>> 833f7a34be289515d52f941c54f9523cb8221f87
